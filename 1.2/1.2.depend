@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576556536 source:c:\users\lican\documents\github\1.2\main.c
+	<stdio.h>
+	<string.h>
+
